@@ -1,2 +1,2 @@
-# Implementation-of-BTS-CE-web-client-with-VueJs
-bts-ce-web-vuejs
+# bts-ce-web-vuejs
+Implementation of BTS-CE web client with VueJs
